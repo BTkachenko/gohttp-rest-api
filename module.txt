@@ -1,0 +1,2 @@
+ozzo validator (analog go-validator) go get github.com/go-ozzo/ozzo-validation
+x/crypto - hash password
